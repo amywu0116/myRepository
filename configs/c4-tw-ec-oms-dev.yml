@@ -1,2 +1,7 @@
 config:
-    env: OMS DEV
+  env: OMS DEV
+data:
+  env: localhost-online
+  user:
+    username: fengzheng-online
+    password: password-online
