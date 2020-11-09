@@ -1,1 +1,2 @@
-config.env: OMS DEV
+config:
+    env: OMS DEV
