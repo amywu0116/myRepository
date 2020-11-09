@@ -1,1 +1,2 @@
-config.env: OMS
+info:
+  profile: default
