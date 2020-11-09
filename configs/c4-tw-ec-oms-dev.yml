@@ -1,5 +1,3 @@
-config:
-  env: OMS DEV
 data:
   env: localhost-online
   user:
